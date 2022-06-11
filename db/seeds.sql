@@ -2,7 +2,7 @@
 
 INSERT INTO departments (id, name)
 VALUES 
-    (1, "Board"),
+    (1, "Director"),
     (2, "Sales"),
     (3, "Engineering"),
     (4, "Finance"),
