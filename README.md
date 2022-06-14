@@ -1,6 +1,6 @@
   # Employee-Tracker
 
-
+<iframe src="https://drive.google.com/file/d/1h3nxxBZEoI7NggsvCb1rI9leqEdHums5/preview" width="640" height="480"></iframe>
 
   # Description 
   This application manages a company's employee database using Node.js Inquirer, and MySQL
@@ -18,7 +18,7 @@
   ## https://choosealicense.com/licenses/mit/
 
   # Install:
-  You must install the following for this app to function: The user must have Inquirer, Express.js, and MySQL installed
+  You must install the following for this app to function: The user must have Inquirer, console.table, and MySQL2 installed
 
   # Usage:
   In order to use this application, the user must run 'npm start' then complete the prompts.

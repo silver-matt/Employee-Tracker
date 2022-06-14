@@ -1,4 +1,4 @@
--- seeds section
+-- seeds section section
 
 INSERT INTO departments (id, name)
 VALUES 
@@ -8,7 +8,7 @@ VALUES
     (4, "Finance"),
     (5, "Legal");
 
--- Role seeds
+-- Role seeds section
 INSERT INTO roles (department_id, title, salary)
 VALUES 
     (1, "CEO", 258000),
@@ -21,7 +21,7 @@ VALUES
     (5, "Legal Team Lead", 207000),
     (5, "Lawyer", 133000);
 
--- Employee seeds
+-- Employee seeds section
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES 
     ("Matthew", "Silver", 1, null),

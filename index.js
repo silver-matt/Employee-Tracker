@@ -20,7 +20,7 @@ db.connect(function (err) {
 });
 
 // Figlet shows "EMPLOYEE TRACKER" in cool line format
-figlet("EMPLOYEE  TRACKER", function (err, res) {
+figlet("EMPLOYEE TRACKER", function (err, res) {
   if (err) {
     console.log("There has been an error!");
     console.dir(err);
@@ -76,6 +76,7 @@ const startPrompt = () => {
 
         case "Update Employee Role":
           updateEmployee();
+          break;
       }
     });
 };
