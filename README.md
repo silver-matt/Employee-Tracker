@@ -1,6 +1,9 @@
   # Employee-Tracker
+ 
+Video Demo
+https://drive.google.com/file/d/1h3nxxBZEoI7NggsvCb1rI9leqEdHums5/preview
 
-<iframe src="https://drive.google.com/file/d/1h3nxxBZEoI7NggsvCb1rI9leqEdHums5/preview" width="640" height="480"></iframe>
+![image](https://user-images.githubusercontent.com/99905729/173480834-90035f16-7875-4e12-8221-1b48ddbacca6.png)
 
   # Description 
   This application manages a company's employee database using Node.js Inquirer, and MySQL
